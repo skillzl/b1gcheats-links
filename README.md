@@ -5,14 +5,19 @@
 <img style="height: 300px;" src="https://i.imgur.com/3u8SWk6.png"/>
 
 [sampcac_bypass_menu][sampcac_bypass_menu]
+<img style="height: 300px;" src="https://i.imgur.com/zinRCGb.png"/>
 
 [corona][corona]
+<img style="height: 300px;" src="https://i.imgur.com/jKDmv0Q.png"/>
 
 [rainbow_menu][rainbow_menu]
+<img style="height: 300px;" src="https://i.imgur.com/bHSZeoE.png"/>
 
 [dublin_v2][dublin_v2]
+<img style="height: 300px;" src="https://i.imgur.com/h8bMZLF.png"/>
 
 [ryon_menu][ryon_menu]
+<img style="height: 300px;" src="https://i.imgur.com/NapPKjw.png"/>
 
 
 
