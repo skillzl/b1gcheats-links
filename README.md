@@ -2,6 +2,7 @@
 <img style="height: 300px;" src="https://i.imgur.com/6ZNa1FN.png"/>
 
 [stealth][stealth]
+<img style="height: 300px;" src="https://i.imgur.com/3u8SWk6.png"/>
 
 [sampcac_bypass_menu][sampcac_bypass_menu]
 
