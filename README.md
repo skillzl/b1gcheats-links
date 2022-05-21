@@ -1,4 +1,5 @@
 [ctw][ctw]
+<img src="https://i.imgur.com/6ZNa1FN.png"/>
 
 [stealth][stealth]
 
