@@ -1,5 +1,5 @@
 [ctw][ctw]
-<img src="https://i.imgur.com/6ZNa1FN.png"/>
+<img style="height: 12px;" src="https://i.imgur.com/6ZNa1FN.png"/>
 
 [stealth][stealth]
 
